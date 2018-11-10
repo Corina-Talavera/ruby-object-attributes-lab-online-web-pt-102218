@@ -7,10 +7,10 @@ class Person
     name="Beyonce"
   end
   def job=(job)
-    @job="Beagle"
+    @job="Singer"
   end
  
-  def breed
-    name="Beagle"
+  def job
+    job="Singer"
   end
 end
