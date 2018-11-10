@@ -7,11 +7,11 @@ class Dog
     name="Fido"
   end
   def breed=(breed)
-    @breed="Fido"
+    @breed="Beagle"
   end
  
-  def name
-    name="Fido"
+  def breed
+    name="Beagle"
   end
 end
  
