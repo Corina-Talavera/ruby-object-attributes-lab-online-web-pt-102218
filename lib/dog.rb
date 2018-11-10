@@ -3,5 +3,5 @@ class Dog
 fido = Dog.new("fido")
  
 fido.name
-  => "Fido"
+  #=> "Fido"
 end
