@@ -1,5 +1,3 @@
 class Dog
-
-fido = Dog.new("fido")
- 
-fido.name
+ fido = Dog.new
+        fido.name = "Fido"
